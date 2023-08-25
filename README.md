@@ -1,0 +1,1 @@
+Integrating the Microsoft Bot Framework which provides what you need to build and connect intelligent bots in a flask application.
